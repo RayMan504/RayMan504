@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Uraeus "Ray" Millet 👋
 
 Full-Stack Developer | Azure Apprenctice | Lifelong Learner
