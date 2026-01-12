@@ -1,16 +1,49 @@
 ## Hi there 👋
+# Hi, I'm Uraeus "Ray" Millet 👋
 
-<!--
-**RayMan504/RayMan504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Azure Apprenctice | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+I'm a software engineer with experience building **scalable applications** for federal clients while maintaining strict **data security standards**. I love designing solutions that are both **efficient and reliable**, and I have a passion for learning new technologies.  
+
+I’m also a **kidney transplant survivor**, which has shaped my discipline, resilience, problem-solving skills, and ability to focus under pressure — traits I bring into every project I work on.
+
+---
+
+## 💻 Tech Stack
+- **Languages:** JavaScript, C#, Python, HTML, CSS
+- **Frameworks/Libraries:** Node.js, React, Express
+- **Cloud / DevOps:** Azure Functions, Azure DevOps, GitHub Actions
+- **Other:** REST APIs, SQL, Stream Processing, Microservices, Security Best Practices
+
+---
+
+## 🔹 Featured Projects
+Here are some of my top projects. (Pinned repos recommended!)
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Mortgage Automation](https://github.com/RayMan504/...) | Automated mortgage loan underwriting using Azure Functions. Streamlined large document downloads with real-time streaming. | C#, Azure Functions, Blob Storage |
+| [Matchy](https://github.com/RayMan504/Matchy) | Social networking app with real-time interactions. | Node.js, Express, JavaScript |
+| [Tic-Tac-Toe](https://github.com/RayMan504/tic-tac-toe-challenge) | Simple interactive two player tic-tac-toe game | Python |
+| [Dark Matter Disco](https://github.com/dark-matter-interactive/dark-matter-disco) | multiplayer dance party game platform featuring virtual rooms, real-time interactions, and machine learning dance move recognition. | Angular, Postgres, Typescript, Tensorflow.js |
+
+---
+
+## 🌱 Currently Learning
+- Azure Certification Exams (AZ-900, AZ-204)
+- Advanced Python for backend services
+- Serverless architecture best practices
+
+---
+
+## 📫 How to Reach Me
+- Email: [uraeusmillet@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/uraeus-millet](https://www.linkedin.com/in/uraeus-millet)
+
+---
+
+## ⚡ Fun Fact
+Despite my coding and cloud obsession, I never miss a chance to **play board games**, **go camping**, or **teach kids about technology**.
