@@ -13,7 +13,7 @@ I’m also a **kidney transplant survivor**, which has shaped my discipline, res
 
 ## 💻 Tech Stack
 - **Languages:** JavaScript, C#, Python, HTML, CSS
-- **Frameworks/Libraries:** Node.js, React, Express
+- **Frameworks/Libraries:** Node.js, React, Express, ASP.NET Core, Vue, GraphQL
 - **Cloud / DevOps:** Azure Functions, Azure DevOps, GitHub Actions
 - **Other:** REST APIs, SQL, Stream Processing, Microservices, Security Best Practices
 
