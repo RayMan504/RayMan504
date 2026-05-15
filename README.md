@@ -1,13 +1,13 @@
 # Hi, I'm Uraeus "Ray" Millet 👋
 
-Full-Stack Developer | Azure Apprenctice | Lifelong Learner
+Full-Stack Developer | Azure Apprentice | Lifelong Learner
 
 ---
 
 ## 🔹 About Me
 I'm a software engineer with experience building **scalable applications** for federal clients while maintaining strict **data security standards**. I love designing solutions that are both **efficient and reliable**, and I have a passion for learning new technologies.  
 
-I’m also a **kidney transplant survivor**, which has shaped my discipline, resilience, problem-solving skills, and ability to focus under pressure — traits I bring into every project I work on.
+I’m also a **kidney transplant recipient**, which has shaped my discipline, resilience, problem-solving skills, and ability to focus under pressure — traits I bring into every project I work on.
 
 ---
 
@@ -34,6 +34,7 @@ Here are some of my top projects. (Pinned repos recommended!)
 ## 🌱 Currently Learning
 - Azure Certification Exams (AZ-900, AZ-204)
 - Advanced Python for backend services
+- Sharpening my C# and Javascript skills
 - Serverless architecture best practices
 
 ---
