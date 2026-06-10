@@ -1,6 +1,6 @@
 # Hi, I'm Uraeus "Ray" Millet 👋
 
-Full-Stack Developer | Azure Apprentice | Lifelong Learner
+Mid-Level Software Engineer | Azure Apprentice | Lifelong Learner
 
 ---
 
