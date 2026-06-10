@@ -32,7 +32,7 @@ Here are some of my top projects. (Pinned repos recommended!)
 ---
 
 ## 🌱 Currently Learning
-- Azure Certification Exams (AZ-900, AZ-204)
+- Azure Certification Exams (AZ-900, AI-200)
 - Advanced Python for backend services
 - Sharpening my C# and Javascript skills
 - Serverless architecture best practices
