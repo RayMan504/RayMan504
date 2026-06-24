@@ -25,7 +25,7 @@ Here are some of my top projects. (Pinned repos recommended!)
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Dark Matter Disco 2.0](https://github.com/RayMan504/dark-matter-disco-2.0) | This project began as a legacy codebase developed six years earlier. Rather than performing an incremental upgrade, I treated the original application as a functional specification and rebuilt the platform using current technologies, modern architectural patterns, and improved scalability practices. | Angular, MongoDB, Typescript, Pixi,js, MediaPipe |
-| [Blood Type Compatibility Service](https://github.com/RayMan504/BloodMatchApi) | Simple Web API that validates compatibility of a given blood type. | C#, Typescript, Azure Web App |
+| [Blood Type Compatibility Service](https://github.com/RayMan504/BloodMatchApi) | Simple Web API that validates compatibility of a given blood type. | C#, Typescript, Azure App Service |
 | [Tic-Tac-Toe](https://github.com/RayMan504/tic-tac-toe-challenge) | Simple interactive two player tic-tac-toe game | Python |
 | [Dark Matter Disco](https://github.com/dark-matter-interactive/dark-matter-disco) | multiplayer dance party game platform featuring virtual rooms, real-time interactions, and machine learning dance move recognition. | Angular, Postgres, Typescript, Tensorflow.js |
 
